@@ -55,6 +55,7 @@ while True:
             skip_inp = True
         if(inp_split[i] == "HELP"):
             print("HELP-----------------------------------------------------------------------------------------------------")
+            print("FILE   -> Executes a .lolscript file, usage: FILE [FILENAME].lolscript")
             print("OUT    -> Outputs to console, usage: OUT [TEXT or VAR_NAME]")
             print("CALC   -> Calculates exqasions, usage: CALC [NUMBER1 or VAR_NAME] [(+)/(-)/(*)/(/)] [NUMBER2 or VAR_NAME]")
             print("VAR    -> Creates variables, usage: VAR [VAR_NAME] [VALUE]")

@@ -2,7 +2,8 @@ LOLSCRIPT
 ---
 A programming / shell language
 
-Interpreter written in python
+- Interpreter written in python
+- test.lolscript file can be executet using "FILE test.lolscript" to show the capabilities of LOLSCRIPT
 
 ```text
 HELP   -> Lists commands and functions
